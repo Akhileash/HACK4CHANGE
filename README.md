@@ -1,1 +1,1 @@
-This is the repository for ENHANCING AGRICULTURE USING AI Project done by Team Wizard Warriors
+This is the repository for ENHANCING AGRICULTURE USING AI Project done by Team Wizard Warriors, The Google Drive Link for the prototype : https://drive.google.com/drive/folders/1UErw-_P0v9og9XejpBEZsIwkCLMXwgrR
