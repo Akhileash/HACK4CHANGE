@@ -1,1 +1,1 @@
-This is the repository for ENHANCING AGRICULTURE USING AI Project done by Wizard Warriors
+This is the repository for ENHANCING AGRICULTURE USING AI Project done by Team Wizard Warriors
